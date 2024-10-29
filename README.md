@@ -25,8 +25,4 @@ No Code → Low Code
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Calmren&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Calmren&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Calmren&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
 
