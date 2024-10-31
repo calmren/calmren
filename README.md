@@ -1,6 +1,6 @@
 #
 
-![Header](./assets/sumokobanner.webp){ width="100%" }
+![Header](./assets/sumokobanner.webp)
 
 # About Me:
 Current Status - Learning 🚀  
@@ -19,8 +19,8 @@ No Code → Low Code → Something Code
 - ...and more side quests in various states of completion...  
 
 ## 🌐 Socials:
-[![BlueSky](https://img.shields.io/badge/BlueSky-%23000000.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/sumokoxyz.bsky.social)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sumoko.xyz)
+[![BlueSky](https://img.shields.io/badge/BlueSky-%230285FF.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/sumokoxyz.bsky.social)
+[![TikTok](https://img.shields.io/badge/TikTok-%23808080.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sumoko.xyz)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SuMoKo-com)
 
 ## 💻 Tech Stack:
