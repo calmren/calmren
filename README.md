@@ -1,6 +1,10 @@
-# 💫 About Me:
+# SuMoKo
+
+![Header](./assests/sumokobanner.webp)
+
+# About Me:
 Current Status - Learning 🚀  
-No Code → Low Code  
+No Code → Low Code → Something Code  
 
 ### Current Projects:
 - **Fusion Agentic Engine**: Utilizing NLP and an abstracted Db, powered by DSC YAML files - Python  
@@ -10,19 +14,34 @@ No Code → Low Code
 
 **In the Works…**  
 - Local AI assistance across devices with voice  
-- Video Editing, Animation, Manga AI, Visual Storytelling AI  
-- …and more side projects in various states of completion...  
+- Video Editing, Animation, Manga AI, Visual Storytelling AI
+- Key/secret management system - Seemless user experience utilising general tools. A Learning Security Project
+- ...and more side quests in various states of completion...  
 
 ## 🌐 Socials:
-[![BlueSky](https://img.shields.io/badge/BlueSky-%23000AFF.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/sumokoxyz.bsky.social)  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@sumoko.xyz)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@SuMoKo-com)
+<a href="https://bsky.app/profile/sumokoxyz.bsky.social"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bluesky.svg" width="40" height="40" alt="BlueSky" style="filter: invert(0.7);"></a>
+<a href="https://tiktok.com/@sumoko.xyz"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" width="40" height="40" alt="TikTok" style="filter: invert(0.7);"></a>
+<a href="https://www.youtube.com/@SuMoKo-com"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" width="40" height="40" alt="YouTube" style="filter: invert(0.7);"></a>
 
 ## 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,py,go,graphql,aws,googlecloud,vercel,fastapi,nodejs,nextjs,react,prisma,postgres,mongodb,sqlite,tensorflow,docker" />
+</p>
 
+<!-- Direct image/GIF from a URL -->
+<!-- ![Description](https://example.com/image.gif) -->
 
+<!-- Imgur hosted GIF -->
+<!-- ![Description](https://i.imgur.com/example.gif) -->
+
+<!-- YouTube Thumbnail (not animated) -->
+<!-- ![YouTube Thumbnail](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg) -->
+
+<!-- For better control over size -->
+<!-- <img src="https://example.com/image.webp" width="500" alt="Description"/> -->
+
+<!-- For multiple formats (modern browsers will use WebP) -->
+<!-- <picture>
+  <source srcset="image.webp" type="image/webp">
+  <img src="image.png" alt="Description">
+</picture>
