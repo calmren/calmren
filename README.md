@@ -1,6 +1,6 @@
 #
 
-<img src="./assets/sumokobanner.webp" width="100%" alt="Header">
+![Header](./assets/sumokobanner.webp){ width="100%" }
 
 # About Me:
 Current Status - Learning 🚀  
@@ -19,9 +19,9 @@ No Code → Low Code → Something Code
 - ...and more side quests in various states of completion...  
 
 ## 🌐 Socials:
-<a href="https://bsky.app/profile/sumokoxyz.bsky.social"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bluesky.svg" width="40" height="40" alt="BlueSky" style="filter: invert(0.7);"></a>
-<a href="https://tiktok.com/@sumoko.xyz"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" width="40" height="40" alt="TikTok" style="filter: invert(0.7);"></a>
-<a href="https://www.youtube.com/@SuMoKo-com"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" width="40" height="40" alt="YouTube" style="filter: invert(0.7);"></a>
+[![BlueSky](https://img.shields.io/badge/BlueSky-%23000000.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/sumokoxyz.bsky.social)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sumoko.xyz)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SuMoKo-com)
 
 ## 💻 Tech Stack:
 <p align="left">
