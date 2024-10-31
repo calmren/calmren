@@ -1,8 +1,8 @@
 #
 
-![Header](./assets/sumokobanner.webp) [ width="100%" ]
+![Header](./assets/sumokobanner.webp) width="100%"
 
-# About Me:
+## About Me:
 Current Status - Learning 🚀  
 No Code → Low Code → Something Code  
 
