@@ -1,6 +1,6 @@
-# SuMoKo
+#
 
-![Header](./assests/sumokobanner.webp)
+<img src="./assets/sumokobanner.webp" width="100%" alt="Header">
 
 # About Me:
 Current Status - Learning 🚀  
