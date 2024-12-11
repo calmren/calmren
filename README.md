@@ -1,22 +1,37 @@
-#
+# SuMoKo
 
-![Header](./assets/square.webp)
+![Header](./assets/sumoko.webp)
 
 ## About Me:
-Current Status - Learning 🚀  
-No Code → Low Code → Something Code  
+Current Status - No Code → Low Code → Something Code
+
+***Utilize LLM Power via Agentic***
+
+  
 
 ### Current Projects:
-- **Fusion Agentic Engine**: Utilizing NLP and an abstracted Db, powered by DSC YAML files - Python  
-- **Edge GraphQL Fetch and Auth**: Security and performance-focused; Next.js 15 monorepo learning project  
-- **Daily Life Management**: Next.js 14, Nest.js, PWA, and mobile versions - TypeScript  
-- **Web3 Projects**: Various small projects with educational and sustainable community goals - Go  
+- **Fusion Agentic Engine**: NLP, Manager, Engine, Evaluator, with abstracted nlp and variable context options, plugeable D.S.C YAML files for multiple uses - Python  
+  -Learning agentic Project - current focus caching
+
+- **Storytelling Recommendation System**:  Cross-Media theming and vibe recommendation system - Python/Astro/Vite/Tailwind  
+  -Initial Learning project - Building to plug into a mini llm agentic engine, utilizing graphql storage/retrieval
+  -will be transposed to a mobile framework
+
+- **LowCode Prompt Framework**: Prompt engineering to use for a low coder. Structure and Examples from concept to MVP.
+
+- **Daily Life Management**:Web, PWA, and mobile versions - Various tech  
+
+- **Spotify app for true randomised playlist generation**: Python/Spotify API
+  - currently builds randomised playlists from your Spotify library
+  - tbc mood or vibe playlist generation  
 
 **In the Works…**  
-- Local AI assistance across devices with voice  
+- Domain Specific Configuration for LLM Agents, specialized education, fitness for specialized focus and more.
+-  Web3 Projects Various small projects with educational and sustainable community goals 
+- Voice integration with various tools and LLM Agents
 - Video Editing, Animation, Manga AI, Visual Storytelling AI
-- Key/secret management system - Seemless user experience utilising general tools. A Learning Security Project
-- ...and more side quests in various states of completion...  
+- Key/secret management system - Seamless user experience utilizing general tools in browsers. A Learning Security Project
+- ...and more side quests in various states of completion  
 
 ## 🌐 Socials:
 [![BlueSky](https://img.shields.io/badge/BlueSky-%230285FF.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/sumokoxyz.bsky.social)
@@ -25,7 +40,7 @@ No Code → Low Code → Something Code
 
 ## 💻 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,py,go,graphql,aws,googlecloud,vercel,fastapi,nodejs,nextjs,react,prisma,postgres,mongodb,sqlite,tensorflow,docker" />
+  <img src="https://skillicons.dev/icons?i=ts,py,graphql,aws,googlecloud,astro,fastapi,nodejs,nextjs,react,prisma,postgres,mongodb,sqlite,tensorflow,docker" />
 </p>
 
 <!-- Direct image/GIF from a URL -->
