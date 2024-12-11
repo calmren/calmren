@@ -2,61 +2,68 @@
 
 ![Header](./assets/sumoko.webp)
 
-## About Me:
-Current Status - No Code → Low Code → Something Code
+## About Me
+> From No Code → Low Code → **Empowering Others Through AI**
 
-***Utilize LLM Power via Agentic***
+I'm focused on making AI accessible and practical for everyday people. With a unique blend of storytelling, user experience, and technical skills, I build tools that bridge the gap between cutting-edge AI and real-world applications.
 
-  
+### 🎯 Current Focus
+- Building AI-powered tools that real people can actually use
+- Exploring the intersection of storytelling and technology
+- Making LLMs more approachable through agentic frameworks
 
-### Current Projects:
-- **Fusion Agentic Engine**: NLP, Manager, Engine, Evaluator, with abstracted nlp and variable context options, plugeable D.S.C YAML files for multiple uses - Python  
-  -Learning agentic Project - current focus caching
+### 🚀 Featured Projects
+#### Fusion Agentic Engine
+*Making AI agents accessible and practical*
+- NLP-driven engine with pluggable domain configurations
+- Focus on caching and real-world performance
+- Built for everyday developers and power users
+- **Tech:** Python, NLP, YAML-based configurations
 
-- **Storytelling Recommendation System**:  Cross-Media theming and vibe recommendation system - Python/Astro/Vite/Tailwind  
-  -Initial Learning project - Building to plug into a mini llm agentic engine, utilizing graphql storage/retrieval
-  -will be transposed to a mobile framework
+#### Storytelling Recommendation System
+*Cross-media content discovery reimagined*
+- Thematic and vibe-based recommendation engine
+- Integrates with GraphQL for efficient content retrieval
+- Mobile-first approach for accessibility
+- **Tech:** Python, Astro, Vite, Tailwind, GraphQL
 
-- **LowCode Prompt Framework**: Prompt engineering to use for a low coder. Structure and Examples from concept to MVP.
+#### LowCode Prompt Framework
+*Democratizing AI prompt engineering*
+- Structured approach from concept to MVP
+- Focus on practical, real-world applications
+- Designed for low-code developers
+- **Tech:** Prompt Engineering, AI Integration Patterns
 
-- **Daily Life Management**:Web, PWA, and mobile versions - Various tech  
+#### Daily Life Management & Spotify Tools
+*AI-enhanced productivity and entertainment*
+- Cross-platform life management tools
+- Smart playlist generation with mood recognition
+- **Tech:** Various (Web, PWA, Mobile), Spotify API
 
-- **Spotify app for true randomised playlist generation**: Python/Spotify API
-  - currently builds randomised playlists from your Spotify library
-  - tbc mood or vibe playlist generation  
+### 🌱 Growing Projects
+- Domain-Specific AI Agents for education and fitness
+- Voice-integrated AI assistants for everyday tasks
+- Secure key management for better AI tool accessibility
+- Visual storytelling and creative AI tools
 
-**In the Works…**  
-- Domain Specific Configuration for LLM Agents, specialized education, fitness for specialized focus and more.
--  Web3 Projects Various small projects with educational and sustainable community goals 
-- Voice integration with various tools and LLM Agents
-- Video Editing, Animation, Manga AI, Visual Storytelling AI
-- Key/secret management system - Seamless user experience utilizing general tools in browsers. A Learning Security Project
-- ...and more side quests in various states of completion  
-
-## 🌐 Socials:
-[![BlueSky](https://img.shields.io/badge/BlueSky-%230285FF.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/sumokoxyz.bsky.social)
-[![TikTok](https://img.shields.io/badge/TikTok-%23808080.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sumoko.xyz)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SuMoKo-com)
-
-## 💻 Tech Stack:
+## 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,py,graphql,aws,googlecloud,astro,fastapi,nodejs,nextjs,react,prisma,postgres,mongodb,sqlite,tensorflow,docker" />
 </p>
 
-<!-- Direct image/GIF from a URL -->
-<!-- ![Description](https://example.com/image.gif) -->
+### 💡 My Approach
+I believe in:
+- Making AI accessible to non-technical users
+- Building practical tools that solve real problems
+- Creating intuitive interfaces for complex technologies
+- Learning and sharing knowledge openly
 
-<!-- Imgur hosted GIF -->
-<!-- ![Description](https://i.imgur.com/example.gif) -->
+## 🌐 Connect & Learn
+[![BlueSky](https://img.shields.io/badge/BlueSky-%230285FF.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/sumokoxyz.bsky.social)
+[![TikTok](https://img.shields.io/badge/TikTok-%23808080.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sumoko.xyz)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SuMoKo-com)
 
-<!-- YouTube Thumbnail (not animated) -->
-<!-- ![YouTube Thumbnail](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg) -->
+*Follow along for insights into AI development, practical coding solutions, and the journey of making technology more accessible.*
 
-<!-- For better control over size -->
-<!-- <img src="https://example.com/image.webp" width="500" alt="Description"/> -->
-
-<!-- For multiple formats (modern browsers will use WebP) -->
-<!-- <picture>
-  <source srcset="image.webp" type="image/webp">
-  <img src="image.png" alt="Description">
-</picture>
+---
+💬 Open to collaboration on projects that make AI more accessible and practical for everyday users!
