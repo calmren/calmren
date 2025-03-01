@@ -7,40 +7,59 @@
 
 I'm focused on making AI accessible and practical for everyday people. With a unique blend of storytelling, user experience, and technical skills, I build tools that bridge the gap between cutting-edge AI and real-world applications.
 
-### 🎯 Current Focus
-- Building AI-powered tools that real people can actually use
-- Exploring the intersection of storytelling and technology
-- Making LLMs more approachable through agentic frameworks
+## 💼 Professional Focus
 
-### 🚀 Featured Projects
-#### Fusion Agentic Engine
-*Making AI agents accessible and practical*
-- NLP-driven engine with pluggable domain configurations
+### 🔍 AI Engineering & Architecture
+- **AI Accessibility**: Creating tools that make advanced AI accessible to non-technical users
+- **Edge Computing**: Optimizing AI for resource-constrained environments
+- **Memory Systems**: Designing efficient storage and retrieval mechanisms for AI contexts
+- **Hybrid Model Design**: Combining different architectural approaches for optimal performance
+
+### 🧩 User Experience Design
+- **Intuitive Interfaces**: Building seamless interactions for complex technologies
+- **Cross-Media Integration**: Connecting different content types through unified experiences
+- **Storytelling Integration**: Using narrative structures to enhance user engagement
+- **Assistive Technology**: Creating tools that empower users in everyday tasks
+
+### 🛠️ Technical Implementation
+- **Edge Deployment**: Optimizing applications for local execution and privacy
+- **Memory Persistence**: Creating systems for reliable long-term information storage
+- **Security & Privacy**: Building with data protection as a core principle
+- **Resource Optimization**: Maximizing performance in limited computing environments
+
+## 🚀 Featured Projects
+
+### Mnema Edge
+*Lightweight AI optimized for edge devices with memory persistence*
+- Hybrid SSM+Transformer model starting at just a few MB
+- Tiered caching system with importance-weighted state management
+- Multi-level memory architecture with privacy and security built-in
+- Designed for resource-constrained environments with eventual real-time learning
+- **Tech:** Python, State Space Models, Transformers, Edge Computing
+
+### Fusion Agentic Framework
+*AI agent tooling built for practical applications*
+- Modular architecture with embedded reasoning capabilities
 - Focus on caching and real-world performance
 - Built for everyday developers and power users
-- **Tech:** Python, NLP, YAML-based configurations
+- Agent-driven architecture that handles evaluation and management internally
+- **Tech:** Python, LLMs, YAML-based configurations
 
-#### Storytelling Recommendation System
+### Storytelling Recommendation System
 *Cross-media content discovery reimagined*
 - Thematic and vibe-based recommendation engine
-- Integrates with GraphQL for efficient content retrieval
+- Embedding-focused approach with cross-media mapping
+- Agent plugins with full manual fallback options
 - Mobile-first approach for accessibility
 - **Tech:** Python, Astro, Vite, Tailwind, GraphQL
 
-#### LowCode Prompt Framework
-*Democratizing AI prompt engineering*
-- Structured approach from concept to MVP
-- Focus on practical, real-world applications
-- Designed for low-code developers
-- **Tech:** Prompt Engineering, AI Integration Patterns
-
-#### Daily Life Management & Spotify Tools
+### Daily Life Management & Spotify Tools
 *AI-enhanced productivity and entertainment*
 - Cross-platform life management tools
 - Smart playlist generation with mood recognition
 - **Tech:** Various (Web, PWA, Mobile), Spotify API
 
-### 🌱 Growing Projects
+## 🌱 Growing Projects
 - Domain-Specific AI Agents for education and fitness
 - Voice-integrated AI assistants for everyday tasks
 - Secure key management for better AI tool accessibility
@@ -51,7 +70,7 @@ I'm focused on making AI accessible and practical for everyday people. With a un
   <img src="https://skillicons.dev/icons?i=ts,py,graphql,aws,googlecloud,astro,fastapi,nodejs,nextjs,react,prisma,postgres,mongodb,sqlite,tensorflow,docker" />
 </p>
 
-### 💡 My Approach
+## 💡 My Approach
 I believe in:
 - Making AI accessible to non-technical users
 - Building practical tools that solve real problems
