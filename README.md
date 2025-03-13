@@ -29,6 +29,23 @@ I'm documenting my journey learning how to make AI practical and accessible for 
 
 ## 📚 Featured Projects & What I've Learned
 
+### Teora - Personal Project Management Dashboard
+*Local-first project and task management system with time tracking*
+
+**Technical Highlights:**
+- Implemented a local-first architecture with offline-first data synchronization
+- Built a flexible data hierarchy system (Areas → Projects → Tasks → TimeEntries)
+- Created a Redux-based state management system with PouchDB persistence
+- Developed a responsive UI with radix/ui components and Tailwind CSS
+
+**Key Learnings:**
+- Local-first architectures significantly improve user experience while creating interesting data synchronization challenges
+- Redux middleware patterns provide elegant solutions for persistence operations
+- Type safety across the full stack dramatically reduces runtime errors
+- Component modularity requires thoughtful planning but pays dividends in maintainability
+
+**Tech Stack:** Next.js, React, TypeScript, Redux Toolkit, PouchDB, PostgreSQL, Prisma, NextAuth.js, Tailwind CSS
+
 ### Tahimoto - Cross-Media Story Recommendation Platform
 *Graph-based recommendation engine with thematic analysis*
 
