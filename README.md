@@ -1,4 +1,4 @@
-# (SuMoKo)
+# Calmren
 
 Kia ora!. My goal is simple, task-focused AI solutions anyone can use, whether you’re a student, creator, or just AI-curious. Based in Aotearoa, I’m all about making powerful tech genuinely useful for everyday life.
 
